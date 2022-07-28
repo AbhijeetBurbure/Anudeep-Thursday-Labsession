@@ -7,6 +7,8 @@ percentage of the students. The constructor of student A takes the marks in thre
 subjects as its parameters and the marks in four subjects as its parameters for student
 B. Create an object for eac of the two classes and print the percentage of marks for both
 the students.
+
+
 2. Write a program that would print the information (name, year of joining, salary, address)
 of three employees by creating a class named 'Employee'. The output should be as
 follows:
@@ -14,6 +16,8 @@ Name Year of joining Address
 Robert 1994 64C- WallsStreat
 Sam 2000 68D- WallsStreat
 John 1999 26B- WallsStreat
+
+
 
 3. Create a class called Book to represent a book. A Book should include four pieces of information
 as instance variables‐a book name, an ISBN number, an author name and a publisher. Your class
